@@ -59,6 +59,4 @@ public class Date {
 
 }
 
-//Comment sjhd
-//this is my comment, ikbal
 
